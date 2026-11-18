@@ -1,0 +1,10 @@
+request:
+  method: GET
+  endpoint: /ms1/add
+  queryParams:
+    a: 5
+    b: 10
+response:
+  status: 200
+  contentType: "text/plain; charset=UTF-8"
+  body: "MS 1.1 - Addition = 15"
